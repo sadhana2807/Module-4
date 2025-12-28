@@ -20,5 +20,6 @@ result = merge(dict1, dict2)
 print(result)
 ## Output
 <img width="1028" height="236" alt="image" src="https://github.com/user-attachments/assets/dcd258e0-7e10-4107-bd1b-a966a37e4dc4" />
+
 ## Result
 Thus , the program has been executed successfully.
