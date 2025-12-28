@@ -18,6 +18,7 @@ def merge(d1, d2):
     return merged_dict
 result = merge(dict1, dict2)
 print(result)
+~~~
 ## Output
 <img width="1028" height="236" alt="Screenshot 2025-12-28 090345" src="https://github.com/user-attachments/assets/b54257df-e5c9-4ed8-a73c-5faa3a4388c7" />
 
