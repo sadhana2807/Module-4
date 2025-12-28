@@ -19,7 +19,7 @@ def merge(d1, d2):
 result = merge(dict1, dict2)
 print(result)
 ## Output
-<img width="1028" height="236" alt="image" src="https://github.com/user-attachments/assets/dcd258e0-7e10-4107-bd1b-a966a37e4dc4" />
+<img width="1028" height="236" alt="Screenshot 2025-12-28 090345" src="https://github.com/user-attachments/assets/b54257df-e5c9-4ed8-a73c-5faa3a4388c7" />
 
 ## Result
 Thus , the program has been executed successfully.
